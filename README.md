@@ -12,7 +12,7 @@ I like studying something new.
  
 I use: BASH, Python, PHP, Microsoft VBA, Perl,...
 
-TAGS: Asterisk, FreePBX, VoIP, GSM, Panasonic, LG-Nortel, Samsung, Siemens, Multicom, Cisco, Linksys, Grandstream, Yealink, Gigaset, Dinstar, GoIP, D-Link, Microtik, Eltex, ..
+TAGS: Asterisk, FreePBX, VoIP, GSM, Panasonic, LG-Nortel, Samsung, Siemens, Multicom, Cisco, Linksys, Grandstream, Yealink, Gigaset, Dinstar, GoIP, D-Link, Mikrotik, Eltex, ..
 
 RUSSIAN (Русский)
 =================
