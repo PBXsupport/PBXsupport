@@ -5,12 +5,12 @@
 
 
   I write programs for myself: scripts, monitoring, telephone systems, parsing, analytics.
-I am looking for useful and interesting software - it helps me learn the best programming practices.
-I like to learn something new for myself.
+I am looking for useful and interesting software - it helps me to learn the best programming practices.
+I like studying something new.
 
-  There are many ideas for useful programs for VoIP, but I don't know how to write such code yet.
-
-Use: BASH, Python, PHP, Microsoft VBA, Perl
+  I have got many ideas for the useful programs regarding VoIP, but I don't know how to write such a software yet.
+ 
+I use: BASH, Python, PHP, Microsoft VBA, Perl, ...
 TAGS: Asterisk, FreePBX, VoIP, GSM, Panasonic, LG-Nortel, Samsung, Siemens, Multicom, Cisco, Linksys, Grandstream, Yealink, Gigaset, Dinstar, GoIP, D-Link, Microtik, Eltex, ...
 
 
@@ -19,9 +19,9 @@ RUSSIAN (Русский)
 
  Пишу для себя программы: cкрипты, мониторинг, телефоные системы, парсинг, аналитика.
 Ищу полезный и интересный софт - это помогает мне узнавать лучшие практики программирования. 
-Нравится изучать что-то новое для себя.
+Нравится изучать что-то новое.
 
- Есть много идей полезных программ для VoIP, но я пока не знаю как написать такой код.
+ Есть много идей полезных программ для VoIP, но я пока не знаю как написать нужный софт.
 
 Я интересуюсь программированием, VoIP, системами телефонии (АТС), ИТ-аудитом, анализом данных, ...
 Использую: BASH, Python, PHP, Microsoft VBA, Perl
