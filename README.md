@@ -11,8 +11,7 @@ I like studying something new.
   There are several ideas for useful programs for VoIP, but I don't know how to program it yet.
  
 I use: BASH, Python, PHP, Microsoft VBA, Perl, ...
-TAGS: Asterisk, FreePBX, VoIP, GSM, Panasonic, LG-Nortel, Samsung, Siemens, Multicom, Cisco, Linksys, Grandstream, Yealink, Gigaset, Dinstar, GoIP, D-Link, Microtik, Eltex, ...
-
+TAGS: Asterisk, FreePBX, VoIP, GSM, Panasonic, LG-Nortel, Samsung, Siemens, Multicom, Cisco, Linksys, Grandstream, Yealink, Gigaset, Dinstar, GoIP, D-Link, Microtik, Eltex, ..
 
 RUSSIAN (Русский)
 =================
